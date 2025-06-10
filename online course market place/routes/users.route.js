@@ -22,10 +22,12 @@ res.json({success:false, message:e.message});
 })
 
 
-Userrouter.post('/login', (req,res)=>{
+Userrouter.post('/login',async (req,res)=>{
 
 let {email, password}=req.body;
-let user= User.find({email});
+
+let user= await User.findOne({email});
+console.log(user)
 if(!user) return res.json({success:false, message:"user not found"})
 let myPlaintextPassword=password;
 let hash=user.password

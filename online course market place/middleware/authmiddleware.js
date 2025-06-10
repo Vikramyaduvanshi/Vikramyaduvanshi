@@ -2,16 +2,17 @@ let jwt= require("jsonwebtoken");
 
 
 
-function auth(allowedrole){
+function auth(...allowedrole){
 
 return (req,res, next)=>{
 
 try{
+    console.log(req.headers)
     let token= req.headers.authrization.split(" ")[1]
 
 var decoded = jwt.verify(token, 'shhhhh');
 
-if(decoded && decoded.role==allowedrole){
+if(decoded && allowedrole.includes(decoded.role)){
     req.user=decoded.userId
     next();
 }else{
@@ -19,8 +20,11 @@ if(decoded && decoded.role==allowedrole){
 }
 
 }catch(e){
+    console.log(e.message)
 if(e.message=="jwt expired"){
+   
     let token= req.headers.refreshtoken.split(" ")[1]
+    console.log(token)
 if(!token) return res.json({message:"refresh token is missing"});
 
 try{

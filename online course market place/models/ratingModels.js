@@ -1,7 +1,6 @@
 let mongoose= require("mongoose");
 
 
-const mongoose = require("mongoose");
 
 const ratingSchema = new mongoose.Schema({
   courseId: {type: mongoose.Schema.Types.ObjectId, ref: "Course",required: true},

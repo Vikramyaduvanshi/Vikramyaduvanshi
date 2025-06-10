@@ -9,7 +9,9 @@ const User = require("../models/usersModels");
 const Baughtby = require("../models/baught.model");
 const Attendence = require("../models/attendence.model");
 let multer=require("multer")
-let {videostorage}=require("../config/cloudinaryConfig")
+let {videostorage}=require("../config/cloudinaryConfig");
+const Rating = require("../models/ratingModels");
+
 courserouter.post("/createcourse", auth("constructor","admin"), async(req,res)=>{
 try{
 let newcourse= new Course({...req.body, createdBy:req.user})
@@ -148,6 +150,19 @@ res.json({success:false, error:e.message})
 }
 
   
+})
+
+
+courserouter.post("/rating/:courseid", auth('student'), async (req,res)=>{
+console.log(req.body)
+try{
+let courseId=req.params.courseid
+let newrating= new Rating({...req.body,courseId:courseId,ratingby:req.user})
+await newrating.save();
+res.json({success:true, message:"Your rating for this course addedd successfully"})
+}catch(e){
+res.json({success:false, message:e.message})
+}
 })
 
 
