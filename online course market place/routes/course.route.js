@@ -8,6 +8,8 @@ let Coursevideo= require('../models/CourseVideo');
 const User = require("../models/usersModels");
 const Baughtby = require("../models/baught.model");
 const Attendence = require("../models/attendence.model");
+let multer=require("multer")
+let {videostorage}=require("../config/cloudinaryConfig")
 courserouter.post("/createcourse", auth("constructor","admin"), async(req,res)=>{
 try{
 let newcourse= new Course({...req.body, createdBy:req.user})
@@ -125,9 +127,25 @@ res.json({success:false, message:e.message});
 
 })
 
-courserouter.post("/upload", async(req,res)=>{
+let upload=multer({storage:videostorage})
 
 
+courserouter.post("/upload/:courseid",upload.single("videoFile") ,async(req,res)=>{
+let courseid= req.params.courseid
+try{
+console.log("uploaded video", req.file)
+
+let newvideo= new Coursevideo({
+  courseid:courseid,
+  video_id:req.file.filename,
+  video:req.file.path,
+})
+await newvideo.save()
+res.json({message:"video uploaded successfully", video_url: req.file.path, public_id:req.file.filename})
+
+}catch(e){
+res.json({success:false, error:e.message})
+}
 
   
 })

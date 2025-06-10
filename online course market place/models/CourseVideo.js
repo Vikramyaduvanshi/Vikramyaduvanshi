@@ -5,6 +5,7 @@ let mongoose=require("mongoose");
 let CourseVideoSchema= new mongoose.Schema({
 courseid:{type:mongoose.Schema.Types.ObjectId, ref:"Course", required:true},
 video: {type:String, required:true},
+video_id:{type:String, required:true},
 uploadeddate: { type: Date, default: Date.now }
 })
 
