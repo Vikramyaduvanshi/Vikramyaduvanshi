@@ -1,4 +1,8 @@
 <!-- Profile Readme | assets folder me images/gifs rakhna -->
+<p align="center">
+  <img src="/assets/profile-picxs.png" alt="Profile Picture" width="200" style="border-radius: 50%; border: 3px solid #00BFFF; box-shadow: 0 0 10px rgba(0, 191, 255, 0.5);" />
+</p>
+
 
 <h1 align="center">Hi 👋, I'm Vikram Yadav</h1>
 <h3 align="center">MERN Full Stack Developer | Problem Solver | Forex Enthusiast</h3>
@@ -29,10 +33,7 @@
 ---
 
 <p align="center">
-  <img src="assets/inwwtro" alt="Intro Gif" width="500"/>
-</p>
-<p align="center">
-  <img src="/assets/profile-picxs.png" alt="Intro Gif" width="100"/>
+  <img src="/assets//inwwtro.gif" alt="Intro Gif" width="500"/>
 </p>
 
 
