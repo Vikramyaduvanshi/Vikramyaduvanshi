@@ -28,6 +28,15 @@
 
 ---
 
+<p align="center">
+  <img src="assets/inwwtro" alt="Intro Gif" width="500"/>
+</p>
+<p align="center">
+  <img src="/assets/profile-picxs.png" alt="Intro Gif" width="100"/>
+</p>
+
+
+
 ### 📈 GitHub Stats
 
 <p align="center">
@@ -48,8 +57,9 @@
 
 | Project Name | Description | Live Link | GitHub |
 |--------------|-------------|-----------|--------|
-| **Movie Search App** | React + TMDB API + Chakra UI | [Live](https://quize-frontend.vercel.app) | [Code](https://github.com/Vikramyaduvanshi/movie-search) |
-| **Quiz App** | Full Auth, Quiz Logic, Leaderboard | [Live](https://quize-frontend.vercel.app) | [Code](https://github.com/Vikramyaduvanshi/quiz-app) |
+| **Airnub clone App** | React + TMDB API + Chakra UI | [Live](https://airnub-clone-beta.vercel.app) | [Code](https://github.com/Vikramyaduvanshi/airnub-clone) |
+| **Learning App** | Full Auth, Quiz Logic, Leaderboard | [Live](https://quize-frontend.vercel.app) | [Code](https://github.com/Vikramyaduvanshi/quize-frontend) |
+| **Calories Tracking App** | Full Auth, Quiz Logic, Leaderboard | [Live](https://food-calaries-backend.vercel.app/) | [Code](https://github.com/Vikramyaduvanshi/food-calaries-backend) |
 | **Fantasy Team Builder** | Build fantasy teams from 2 inputs | Coming Soon | 🔒 Private for now |
 
 ---
@@ -57,7 +67,7 @@
 ### 🔗 Connect with Me
 
 <p>
-  <a href="https://www.linkedin.com/in/vikramyaduvanshi" target="_blank">
+  <a href="https://www.linkedin.com/in/vikram-yadav-5606a531b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:vy78147@gmail.com">
