@@ -2,9 +2,9 @@
 <p align="center">
   <img src="./assets/profile-picxs.png.png" 
        alt="Vikram Yadav" 
-       width="200" 
-       height="160"
-       border-radius="50%"
+       width="160" 
+       height="200"
+       border-radius="50"
        style="border-radius: 50%; border: 3px solid #00BFFF;">
 </p>
 
