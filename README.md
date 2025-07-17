@@ -1,6 +1,6 @@
 <!-- Profile Readme | assets folder me images/gifs rakhna -->
 <p align="center">
-  <img src="./assets/profile-picxs.png.png" alt="Profile Picture"  style=" hight:20px , width:20px, border-radius: 50px; border: 3px solid #00BFFF; box-shadow: 0 0 10px rgba(0, 191, 255, 0.5);" />
+  <img src="./assets/profile-picxs.png.png" alt="Profile Picture"  style="  border-radius: 50%; border: 3px solid #00BFFF; box-shadow: 0 0 10px rgba(0, 191, 255, 0.5);" />
 </p>
 
 
