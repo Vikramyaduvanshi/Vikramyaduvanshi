@@ -1,16 +1,78 @@
-## Hi there 👋
+<!-- Profile Readme | assets folder me images/gifs rakhna -->
 
-<!--
-**Vikramyaduvanshi/Vikramyaduvanshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Vikram Yadav</h1>
+<h3 align="center">MERN Full Stack Developer | Problem Solver | Forex Enthusiast</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="assets/intro.gif" alt="Intro Gif" width="500"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧑‍💻 About Me
+
+- 🔭 I’m currently working on: **React + Firebase + MongoDB Projects**
+- 🌱 I’m learning: **TypeScript, Redux Toolkit, Backend System Design**
+- 👯 I’m open to collaborate on: **Open Source, EdTech, FinTech & Freelance Projects**
+- 💬 Ask me about: `MERN Stack`, `JavaScript`, `React`, `Node.js`
+- 📫 Reach me: **vy78147@gmail.com**
+- ⚡ Fun fact: I love solving real-world problems with clean UI & smart logic.
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,firebase,git,github,html,css,vscode" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vikramyaduvanshi&show_icons=true&theme=react&hide_border=true" />
+</p>
+
+---
+
+### 🏆 Achievements & Certifications
+
+- ✅ Completed Full Stack Web Dev at Masai School
+- 🚀 Built several production-grade projects
+- 🏅 Cracked IIT (JEE) – PCM 93%
+
+---
+
+### 📂 Featured Projects
+
+| Project Name | Description | Live Link | GitHub |
+|--------------|-------------|-----------|--------|
+| **Movie Search App** | React + TMDB API + Chakra UI | [Live](https://quize-frontend.vercel.app) | [Code](https://github.com/Vikramyaduvanshi/movie-search) |
+| **Quiz App** | Full Auth, Quiz Logic, Leaderboard | [Live](https://quize-frontend.vercel.app) | [Code](https://github.com/Vikramyaduvanshi/quiz-app) |
+| **Fantasy Team Builder** | Build fantasy teams from 2 inputs | Coming Soon | 🔒 Private for now |
+
+---
+
+### 🔗 Connect with Me
+
+<p>
+  <a href="https://www.linkedin.com/in/vikramyaduvanshi" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:vy78147@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
+
+---
+
+### ✨ Quote I Follow
+
+> "Code is like humor. When you have to explain it, it’s bad." – *Cory House*
+
+---
+
+### 🧾 Notes
+
+📁 Keep your images/GIFs like this:
