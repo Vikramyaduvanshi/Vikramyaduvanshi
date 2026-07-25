@@ -3,7 +3,12 @@
 <!-- =============================== -->
 
 <p align="center">
-  <img src="./assets/profile-picxs.png.png" alt="Vikram Yadav" width="180" />
+  <img
+    src="./assets/profile-picxs.png.png"
+    alt="Vikram Yadav"
+    width="180"
+    style="border-radius:50%; border:4px solid #00BFFF; box-shadow:0 0 15px #00BFFF;"
+  />
 </p>
 
 <h3 align="center">
