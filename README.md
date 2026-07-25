@@ -156,18 +156,34 @@ I enjoy learning new technologies, contributing to challenging projects, and cre
 
 </p>
 
-# 🧠 AI Architecture Blueprint
+# 🚀 Full Stack AI System Architecture
 
 ```mermaid
-graph TD
-    A[Documents / PDFs / News] --> B[Text Chunking & Preprocessing]
-    B --> C[Embedding Pipeline]
-    C --> D[(Vector DB - Qdrant)]
-    E[User Query / Input] --> F[Retriever Engine]
-    D <--> F
-    F --> G[LLM Context Injection]
-    G --> H[AI Generated Response]
-    ```
+flowchart LR
+
+    A[📱 React Native]
+    B[💻 React Web]
+
+    A --> C[FastAPI Backend]
+    B --> C
+
+    C --> D[Authentication]
+    C --> E[REST APIs]
+    C --> F[WebSockets]
+
+    E --> G[(PostgreSQL)]
+    E --> H[(Redis)]
+
+    C --> I[LangChain]
+    I --> J[Retriever]
+    J --> K[(Qdrant)]
+
+    I --> L[LLM]
+
+    L --> M[AI Response]
+
+    F --> N[Real-time Updates]
+```
 # 🚀 Featured Projects
 
 | Project | Description | Tech |
