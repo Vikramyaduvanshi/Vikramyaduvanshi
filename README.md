@@ -32,11 +32,11 @@ Building intelligent AI-powered applications with modern Full Stack technologies
 
 # 👨‍💻 About Me
 
-I'm an **AI-Integrated Full Stack Engineer** passionate about building scalable web, mobile, and AI-powered applications.
+I'm a Software Engineer passionate about building scalable products that combine modern software engineering with Artificial Intelligence.
 
-I enjoy solving real-world problems using **Large Language Models (LLMs)**, **Agentic AI**, and modern backend architectures.
+I have experience developing web applications, mobile applications, backend APIs, real-time systems, and AI-powered solutions using technologies such as Python, FastAPI, React, React Native, Node.js, PostgreSQL, Redis, Docker, and cloud-ready architectures. My interests include Generative AI, Agentic AI, Retrieval-Augmented Generation (RAG), Large Language Models (LLMs), system design, and building production-grade AI applications.
 
-Currently focused on developing production-ready AI systems using **FastAPI**, **LangChain**, **LangGraph**, **Qdrant**, and **React**.
+I enjoy learning new technologies, contributing to challenging projects, and creating software that delivers meaningful impact.
 
 ---
 
