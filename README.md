@@ -4,10 +4,17 @@
 
 <p align="center">
   <img
-    src="./assets/profile-picxs.png.png"
+    src="https://github.com/Vikramyaduvanshi.png"
     alt="Vikram Yadav"
-    width="180"
-    style="border-radius:50%; border:4px solid #00BFFF; box-shadow:0 0 15px #00BFFF;"
+    width="170"
+    height="170"
+    style="
+      border-radius: 50%;
+      border: 3px solid #00BFFF;
+      box-shadow: 0 0 20px rgba(0, 191, 255, 0.6), 0 0 40px rgba(0, 191, 255, 0.2);
+      object-fit: cover;
+      transition: transform 0.3s ease;
+    "
   />
 </p>
 
