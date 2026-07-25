@@ -2,10 +2,12 @@
 <!--      GitHub Profile README      -->
 <!-- =============================== -->
 
-<h1 align="center">Hi 👋, I'm Vikram Yadav</h1>
+<p align="center">
+  <img src="./assets/profile-picxs.png.png" alt="Vikram Yadav" width="180" />
+</p>
 
 <h3 align="center">
-AI-Integrated Full Stack Engineer • GenAI • Agentic AI • FastAPI • React • React Native
+AI-Integrated Full Stack Engineer • GenAI • Agentic AI • FastAPI • React • React Native . Node
 </h3>
 
 <p align="center">
