@@ -1,94 +1,304 @@
-<!-- Profile Readme | assets folder me images/gifs rakhna -->
-<p align="center">
-  <img src="./assets/profile-picxs.png.png" 
-       alt="Vikram Yadav" 
-       width="160" 
-       height="200"
-       border-radius="50"
-       style="border-radius: 50%; border: 3px solid #00BFFF;">
-</p>
-
+<!-- =============================== -->
+<!--      GitHub Profile README      -->
+<!-- =============================== -->
 
 <h1 align="center">Hi 👋, I'm Vikram Yadav</h1>
-<h3 align="center">MERN Full Stack Developer | Problem Solver | Forex Enthusiast</h3>
+
+<h3 align="center">
+AI-Integrated Full Stack Engineer • GenAI • Agentic AI • FastAPI • React • React Native
+</h3>
 
 <p align="center">
-  <img src="assets/intro.gif" alt="Intro Gif" width="500"/>
+Building intelligent AI-powered applications with modern Full Stack technologies.
 </p>
-
----
-
-### 🧑‍💻 About Me
-
-- 🔭 I’m currently working on: **React + Firebase + MongoDB Projects**
-- 🌱 I’m learning: **TypeScript, Redux Toolkit, Backend System Design**
-- 👯 I’m open to collaborate on: **Open Source, EdTech, FinTech & Freelance Projects**
-- 💬 Ask me about: `MERN Stack`, `JavaScript`, `React`, `Node.js`
-- 📫 Reach me: **vy78147@gmail.com**
-- ⚡ Fun fact: I love solving real-world problems with clean UI & smart logic.
-
----
-
-### 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,firebase,git,github,html,css,vscode" />
-</p>
-
----
 
 <p align="center">
-  <img src="/assets//inwwtro.gif" alt="Intro Gif" width="500"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=AI-Integrated+Full+Stack+Engineer;Building+Production+AI+Applications;Agentic+AI+%7C+RAG+%7C+LangChain;FastAPI+%7C+React+%7C+React+Native;Always+Learning+Something+New" />
 </p>
-
-
-
-### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vikramyaduvanshi&show_icons=true&theme=react&hide_border=true" />
+
+<a href="mailto:vy78147@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://www.linkedin.com/in/vikram-yadav-5606a531b">
+<img src="https://img.shields.io/badge/LinkedIn-Vikram%20Yadav-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
 </p>
 
 ---
 
-### 🏆 Achievements & Certifications
+# 👨‍💻 About Me
 
-- ✅ Completed Full Stack Web Dev at Masai School
-- 🚀 Built several production-grade projects
-- 🏅 Cracked IIT (JEE) – PCM 93%
+I'm an **AI-Integrated Full Stack Engineer** passionate about building scalable web, mobile, and AI-powered applications.
 
----
+I enjoy solving real-world problems using **Large Language Models (LLMs)**, **Agentic AI**, and modern backend architectures.
 
-### 📂 Featured Projects
-
-| Project Name | Description | Live Link | GitHub |
-|--------------|-------------|-----------|--------|
-| **Airnub clone App** | React + TMDB API + Chakra UI | [Live](https://airnub-clone-beta.vercel.app) | [Code](https://github.com/Vikramyaduvanshi/airnub-clone) |
-| **Learning App** | Full Auth, Quiz Logic, Leaderboard | [Live](https://quize-frontend.vercel.app) | [Code](https://github.com/Vikramyaduvanshi/quize-frontend) |
-| **Calories Tracking App** | Full Auth, Quiz Logic, Leaderboard | [Live](https://food-calaries-backend.vercel.app/) | [Code](https://github.com/Vikramyaduvanshi/food-calaries-backend) |
-| **Fantasy Team Builder** | Build fantasy teams from 2 inputs | Coming Soon | 🔒 Private for now |
+Currently focused on developing production-ready AI systems using **FastAPI**, **LangChain**, **LangGraph**, **Qdrant**, and **React**.
 
 ---
 
-### 🔗 Connect with Me
+# 🚀 Current Focus
+
+- 🤖 Agentic AI
+- 📚 Retrieval-Augmented Generation (RAG)
+- 🧠 Large Language Models (LLMs)
+- ⚡ FastAPI Backend Development
+- 📱 React & React Native
+- 📊 AI Trading News Analysis Platform
+- 🔥 AI Workflow Automation
+
+---
+
+# 🌱 Currently Learning
+
+- Fine-tuning Open Source LLMs
+- Multi-Agent Systems
+- MCP Servers
+- AI System Design
+- Production AI Architecture
+- Advanced Prompt Engineering
+
+---
+
+# 💬 Ask Me About
+
+- GenAI
+- LangChain
+- LangGraph
+- FastAPI
+- Python
+- React
+- React Native
+- Node.js
+- PostgreSQL
+- Redis
+- WebSockets
+- REST APIs
+- Vector Databases
+- RAG
+
+---
+
+# 🛠️ Tech Stack
+
+## Languages
 
 <p>
-  <a href="https://www.linkedin.com/in/vikram-yadav-5606a531b" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:vy78147@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail" />
-  </a>
+
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,cpp"/>
+
 </p>
 
 ---
 
-### ✨ Quote I Follow
+## Frontend
 
-> "Code is like humor. When you have to explain it, it’s bad." – *Cory House*
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,redux,html,css"/>
+
+</p>
 
 ---
 
-### 🧾 Notes
+## Backend
 
-📁 Keep your images/GIFs like this:
+<p>
+
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express"/>
+
+</p>
+
+---
+
+## Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis"/>
+
+</p>
+
+---
+
+## AI / GenAI
+
+- OpenAI API
+- LangChain
+- LangGraph
+- Ollama
+- Qdrant
+- FAISS
+- Vector Databases
+- RAG
+- Embeddings
+- Prompt Engineering
+- Agentic AI
+
+---
+
+## Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,linux"/>
+
+</p>
+
+---
+
+# 🧠 AI Architecture Experience
+
+```text
+Documents / PDFs / News
+
+        │
+
+        ▼
+
+Text Chunking
+
+        │
+
+        ▼
+
+Embeddings
+
+        │
+
+        ▼
+
+Vector Database (Qdrant)
+
+        │
+
+        ▼
+
+Retriever
+
+        │
+
+        ▼
+
+LLM
+
+        │
+
+        ▼
+
+AI Generated Response
+```
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description | Tech |
+|----------|-------------|------|
+| 🤖 AI Trading News Analyzer | AI analyzes financial news and generates market insights | FastAPI, LangGraph, LLM |
+| 📚 RAG Document Chat | Chat with PDFs using Retrieval-Augmented Generation | LangChain, Qdrant |
+| 💬 AI Chat Application | Real-time AI chat with WebSockets | FastAPI, Redis |
+| 📱 Trading Mobile App | Cross-platform trading application | React Native |
+| 🎓 Learning Platform | Authentication, Quiz, Leaderboard | MERN Stack |
+| 🏠 Airbnb Clone | Responsive frontend with API integration | React |
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Vikramyaduvanshi&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikramyaduvanshi&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vikramyaduvanshi&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Vikramyaduvanshi&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vikramyaduvanshi&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🎯 2026 Goals
+
+✅ Master LLM Fine-Tuning
+
+✅ Build Production Agentic AI Applications
+
+✅ Contribute to Open Source
+
+✅ Secure a Remote AI Engineer Role
+
+✅ Build AI Products Used by Thousands
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="mailto:vy78147@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://www.linkedin.com/in/vikram-yadav-5606a531b">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/Vikramyaduvanshi">
+<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+# ⚡ Fun Fact
+
+> I enjoy building AI systems that automate complex workflows and solve real-world problems.
+
+---
+
+# 💭 Favorite Quote
+
+> **"First solve the problem. Then teach AI how to solve it."**
+
+---
+
+<p align="center">
+
+### Thanks for visiting my profile! ⭐
+
+If you like my work, consider giving a ⭐ to my repositories.
+
+</p>
