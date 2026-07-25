@@ -156,9 +156,7 @@ I enjoy learning new technologies, contributing to challenging projects, and cre
 
 </p>
 
----
-
-# 🧠 AI Architecture Experience
+# 🧠 AI Architecture Blueprint
 
 ```mermaid
 graph TD
@@ -169,7 +167,7 @@ graph TD
     D <--> F
     F --> G[LLM Context Injection]
     G --> H[AI Generated Response]
-
+    ```
 # 🚀 Featured Projects
 
 | Project | Description | Tech |
