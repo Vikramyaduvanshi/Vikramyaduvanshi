@@ -74,6 +74,7 @@ Currently focused on developing production-ready AI systems using **FastAPI**, *
 - React Native
 - Node.js
 - PostgreSQL
+  MongoDb
 - Redis
 - WebSockets
 - REST APIs
